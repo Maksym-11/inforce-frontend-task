@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://via.placeholder.com/150",
+      "name": "Product A",
+      "count": 4,
+      "size": { "width": 200, "height": 200 },
+      "weight": "200g",
+      "comments": []
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://via.placeholder.com/150",
+      "name": "Product B",
+      "count": 2,
+      "size": { "width": 150, "height": 150 },
+      "weight": "150g",
+      "comments": []
+    }
+  ],
+  "comments": []
+}
